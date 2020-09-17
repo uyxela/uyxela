@@ -11,7 +11,7 @@ I'm a high school senior passionate about technology and business. I enjoy exper
 
 ### Languages and Tools I Use
 
-<table style="width:100%">
+<table width="100%">
 <tr>
 <td align="center" width="25%">
 <span><h3><center>React</center></h3></span> 
