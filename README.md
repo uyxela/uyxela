@@ -5,29 +5,9 @@
 [![Medium Badge](https://img.shields.io/badge/-@alexjy-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@alexjy)](https://medium.com/@alexjy)
 [![Gmail Badge](https://img.shields.io/badge/-alex@alexyu.ca-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:alex@alexyu.ca)](mailto:alex@alexyu.ca)
 
-<div class='container'>
+<img align='right' src='../image.svg' width='300px' />
 
-<img src='image.svg' class='image' />
-
-<p class='description'>I'm a high school senior passionate about technology and business. I enjoy experimenting with new languages and frameworks, exploring ideas in philosophy and psychology, and building fun things with cool people.</p>
-
-</div>
-
-<style type="text/css">
-
-#container {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-}
-
-#image {
-    width: 200px;
-    margin: 50px;
-}
-
-</style>
+I'm a high school senior passionate about technology and business. I enjoy experimenting with new languages and frameworks, exploring ideas in philosophy and psychology, and building fun things with cool people.
 
 ### Languages and Tools I Use
 
