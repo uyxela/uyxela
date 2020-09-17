@@ -5,11 +5,33 @@
 [![Medium Badge](https://img.shields.io/badge/-@alexjy-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@alexjy)](https://medium.com/@alexjy)
 [![Gmail Badge](https://img.shields.io/badge/-alex@alexyu.ca-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:alex@alexyu.ca)](mailto:alex@alexyu.ca)
 
-I'm a high school senior passionate about technology and business. I enjoy experimenting with new languages and frameworks, exploring ideas in philosophy and psychology, and building fun things with cool people.
+<div class='container'>
 
-<!--### Languages and Tools I Use
+<img src='image.svg' class='image' />
 
-**uyxela/uyxela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p class='description'>I'm a high school senior passionate about technology and business. I enjoy experimenting with new languages and frameworks, exploring ideas in philosophy and psychology, and building fun things with cool people.</p>
+
+</div>
+
+<style type="text/css">
+
+#container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#image {
+    width: 200px;
+    margin: 50px;
+}
+
+</style>
+
+### Languages and Tools I Use
+
+<!--**uyxela/uyxela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
