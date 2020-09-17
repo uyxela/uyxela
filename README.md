@@ -11,6 +11,83 @@ I'm a high school senior passionate about technology and business. I enjoy exper
 
 ### Languages and Tools I Use
 
+<table>
+<tr>
+<td align="center" width="10%">
+<span><h3><center>React</center></h3></span> 
+<img height=60px src="https://simpleicons.org/icons/react.svg"> 
+</td>
+<td align="center" width="10%">
+<span><h3><center>Node.js</center></h3></span> 
+<img height=60px src="https://simpleicons.org/icons/node-dot-js.svg"> 
+</td>
+<td align="center" width="10%">
+<span><h3><center>JavaScript</center></h3></span> 
+<img height=60px src="https://simpleicons.org/icons/javascript.svg"> 
+</td>
+<td align="center" width="10%">
+<span><h3><center>Material-UI</center></h3></span> 
+<img height=60px src="https://simpleicons.org/icons/material-ui.svg"> 
+</td>
+</tr>
+<tr>
+<td align="center" width="10%">
+<span><h3><center>Python</center></h3></span> 
+<img height=60px src="https://simpleicons.org/icons/python.svg"> 
+</td>
+<td align="center" width="10%">
+<span><h3><center>TensorFlow</center></h3></span> 
+<img height=60px src="https://simpleicons.org/icons/tensorflow.svg"> 
+</td>
+<td align="center" width="10%">
+<span><h3><center>Keras</center></h3></span> 
+<img height=60px src="https://simpleicons.org/icons/keras.svg"> 
+</td>
+<td align="center" width="10%">
+<span><h3><center>Flask</center></h3></span> 
+<img height=60px src="https://simpleicons.org/icons/flask.svg"> 
+</td>
+</tr>
+<tr>
+<td align="center" width="10%">
+<span><h3><center>AWS</center></h3></span> 
+<img height=60px src="https://simpleicons.org/icons/amazonaws.svg"> 
+</td>
+<td align="center" width="10%">
+<span><h3><center>MySQL</center></h3></span> 
+<img height=60px src="https://simpleicons.org/icons/mysql.svg"> 
+</td>
+<td align="center" width="10%">
+<span><h3><center>Google Cloud</center></h3></span> 
+<img height=60px src="https://simpleicons.org/icons/googlecloud.svg"> 
+</td>
+<td align="center" width="10%">
+<span><h3><center>Firebase</center></h3></span> 
+<img height=60px src="https://simpleicons.org/icons/firebase.svg"> 
+</td>
+</tr>
+<tr>
+<td align="center" width="10%">
+<span><h3><center>Git</center></h3></span> 
+<img height=60px src="https://simpleicons.org/icons/git.svg"> 
+</td>
+<td align="center" width="10%">
+<span><h3><center>C++</center></h3></span> 
+<img height=60px src="https://simpleicons.org/icons/cplusplus.svg"> 
+</td>
+<td align="center" width="10%">
+<span><h3><center>Java</center></h3></span> 
+<img height=60px src="https://simpleicons.org/icons/java.svg"> 
+</td>
+<td align="center" width="10%">
+<span><h3><center>Docker</center></h3></span> 
+<img height=60px src="https://simpleicons.org/icons/docker.svg"> 
+</td>
+</tr>
+</table>
+
+### What I'm Currently Learning
+
 <!--**uyxela/uyxela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
