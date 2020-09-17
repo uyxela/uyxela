@@ -70,9 +70,12 @@ I'm a high school senior passionate about technology and business. I enjoy exper
 </tr>
 </table>
 
-### What I'm Currently Learning
+<!--### What I'm Currently Learning
+ - graphql
+ - react native
+ - typescript
 
-<!--**uyxela/uyxela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**uyxela/uyxela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
