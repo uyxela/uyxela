@@ -9,23 +9,23 @@
 
 I'm a high school senior passionate about technology and business. I enjoy experimenting with new languages and frameworks, exploring ideas in philosophy and psychology, and building fun things with cool people.
 
-### Languages and Tools I Use
+### Some Languages and Tools I Use
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center">
 <span><h3><center>React</center></h3></span> 
 <img height=60px src="https://simpleicons.org/icons/react.svg"> 
 </td>
-<td align="center" width="25%">
+<td align="center">
 <span><h3><center>Node.js</center></h3></span> 
 <img height=60px src="https://simpleicons.org/icons/node-dot-js.svg"> 
 </td>
-<td align="center" width="25%">
+<td align="center">
 <span><h3><center>JavaScript</center></h3></span> 
 <img height=60px src="https://simpleicons.org/icons/javascript.svg"> 
 </td>
-<td align="center" width="25%">
+<td align="center">
 <span><h3><center>Material-UI</center></h3></span> 
 <img height=60px src="https://simpleicons.org/icons/material-ui.svg"> 
 </td>
