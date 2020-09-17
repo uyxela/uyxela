@@ -1,6 +1,6 @@
 ## Hey! I'm Alex 👋
 
-<img align='right' src='https://alexyu.ca/files/image.svg' width='100px' />
+<img align='right' src='https://alexyu.ca/files/image.svg' width='300px' />
 
 [![Linkedin Badge](https://img.shields.io/badge/-alexjy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexjy)](https://www.linkedin.com/in/alexjy)
 [![Website Badge](https://img.shields.io/badge/-alexyu.ca-E34F26?style=flat&logo=HTML5&logoColor=white&link=https://alexyu.ca)](https://alexyu.ca)
@@ -11,7 +11,7 @@ I'm a high school senior passionate about technology and business. I enjoy exper
 
 ### Languages and Tools I Use
 
-<table width="100%">
+<table>
 <tr>
 <td align="center" width="25%">
 <span><h3><center>React</center></h3></span> 
