@@ -7,7 +7,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@alexjy-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@alexjy)](https://medium.com/@alexjy)
 [![Gmail Badge](https://img.shields.io/badge/-alex@alexyu.ca-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:alex@alexyu.ca)](mailto:alex@alexyu.ca)
 
-I'm a high school senior passionate about technology and business. I enjoy experimenting with new languages and frameworks, exploring ideas in philosophy and psychology, and building fun things with cool people.
+I'm a CS student at the University of Waterloo. I love experimenting with new technologies and building interesting things with cool people.
 
 ### Some Languages and Tools I Use
 
