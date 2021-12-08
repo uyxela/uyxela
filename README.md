@@ -17,13 +17,13 @@ I'm a CS student at the University of Waterloo. I love experimenting with new te
 <img height=60px src="https://simpleicons.org/icons/react.svg"> 
 </td>
 <td align="center">
-<img height=60px src="https://simpleicons.org/icons/node-dot-js.svg"> 
+<img height=60px src="https://simpleicons.org/icons/nodedotjs.svg"> 
 </td>
 <td align="center">
 <img height=60px src="https://simpleicons.org/icons/javascript.svg"> 
 </td>
 <td align="center">
-<img height=60px src="https://simpleicons.org/icons/material-ui.svg"> 
+<img height=60px src="https://simpleicons.org/icons/mui.svg"> 
 </td>
 </tr>
 <tr>
